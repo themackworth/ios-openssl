@@ -7,7 +7,7 @@ set -x
 
 # Setup paths to stuff we need
 
-OPENSSL_VERSION="1.0.1c"
+OPENSSL_VERSION="1.0.1e"
 
 DEVELOPER="/Applications/Xcode.app/Contents/Developer"
 
